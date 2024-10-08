@@ -34,5 +34,5 @@ The rows are concatenated into the result string, with line breaks between each 
 
 
 ## **License**
-This project is licensed under the [GNU]() License.
+This project is licensed under the [GNU](https://github.com/stephenombuya/Pyramid-Generator/blob/main/README.md) License.
 
